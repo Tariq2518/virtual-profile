@@ -17,6 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"USA","country":"United States","image":"unitedstates","ip":"35.188.7.148","active":"true","signal":"a"},
-     {"id":1, "file":1, "city":"NAS","country":"United States","image":"unitedstates","ip":"35.188.7.148","active":"true","signal":"a"}
+     {"id":1, "file":1, "city":"Australia","country":"Australia","image":"australia","ip":"34.126.200.103","active":"true","signal":"b"}
   ]
 }
