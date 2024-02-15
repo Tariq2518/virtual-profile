@@ -205,7 +205,7 @@ fbfa232418231018e9f964dadebb3e25
 "
         },
 {
-            "id": 1,
+            "id":1,
             "file": "# Automatically generated OpenVPN client config file
 # Generated on Thu Feb 15 10:10:40 2024 by openvpn-access-server-3-vm
 # Note: this config file contains inline private keys
@@ -407,6 +407,6 @@ dd1af49dc2ba9f511c9936429c0db3af
 ## Xp8YkbkuRqljzYAyOcXckPnEAARNrWaKl4tsPTeHUyuDtxwEXJegxfzoZZXsgiRy
 ## -----END CERTIFICATE-----
 "
-}
+},
     ]
 }
